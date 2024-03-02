@@ -1,3 +1,4 @@
+using InterfacesImplementation;
 namespace Interfaces
 {
     public interface IPerson
@@ -10,5 +11,10 @@ namespace Interfaces
     {
         IPersonFluent SetFirstName(string FirstName);
         IPersonFluent SetLastName(string LastName);
+    }
+     public interface IPersonFluentV
+    {
+        PersonFluent SetFirstName(string FirstName);
+        PersonFluent SetLastName(string LastName);
     }
 }

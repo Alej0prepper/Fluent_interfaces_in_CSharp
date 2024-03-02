@@ -43,4 +43,24 @@ namespace InterfacesImplementation{
             System.Console.WriteLine(this.FirstName +" " + this.LastName);
         }
     }
+     public class PersonFluentV : IPersonFluentV{
+        string FirstName;
+        string LastName;
+    
+        public PersonFluentV SetFirstName(string FirstName)
+        {
+           this.FirstName = FirstName;
+           return this;
+        }
+
+        public PersonFluentV SetLastName(string LastName)
+        {
+           this.LastName = LastName;
+           return this;
+        }
+
+        public void GetID(){
+            System.Console.WriteLine(this.FirstName +" " + this.LastName);
+        }
+    }
 }

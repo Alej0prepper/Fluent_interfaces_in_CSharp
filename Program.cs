@@ -13,16 +13,17 @@ namespace Program{
             person.SetFirstName("Jorge");
             person.SetLastName("El Salvaje");
             // using a fluent interface
-            IPersonFluent personFluent = new PersonFluent().SetFirstName("Jorge").SetLastName("El Curioso");
             IPersonFluent Juan = new PersonFluent().SetFirstName("Juan").SetLastName("Perez");
 
             try {var a = (PersonFluent)Juan;
                 a.GetID();
             }
-            
+
             catch {System.Console.WriteLine("didn't work");}
 
-            
+            PersonFluentV personFluentV = new PersonFluentV().SetFirstName("Jorge").SetLastName("El Curioso");
+            // curious example to avoid the casting of personFluentV
+            personFluentV.GetID();
             
 
            
