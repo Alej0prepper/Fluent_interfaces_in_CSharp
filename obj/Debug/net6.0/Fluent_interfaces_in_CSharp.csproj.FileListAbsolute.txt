@@ -1,0 +1,15 @@
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.csproj.AssemblyReference.cache
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.AssemblyInfoInputs.cache
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.AssemblyInfo.cs
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\Fluent_interfaces_in_CSharp.exe
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\Fluent_interfaces_in_CSharp.deps.json
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\Fluent_interfaces_in_CSharp.runtimeconfig.json
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\Fluent_interfaces_in_CSharp.dll
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\ref\Fluent_interfaces_in_CSharp.dll
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\bin\Debug\net6.0\Fluent_interfaces_in_CSharp.pdb
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.dll
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\ref\Fluent_interfaces_in_CSharp.dll
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.pdb
+C:\Users\aleja\Documents\GitHub\Fluent_interfaces_in_CSharp\obj\Debug\net6.0\Fluent_interfaces_in_CSharp.genruntimeconfig.cache
